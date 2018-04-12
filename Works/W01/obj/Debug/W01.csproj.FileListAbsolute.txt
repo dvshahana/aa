@@ -1,0 +1,6 @@
+F:\IDB\Core\r-33\r__33_D18\Works\W01\bin\Debug\W01.exe.config
+F:\IDB\Core\r-33\r__33_D18\Works\W01\bin\Debug\W01.exe
+F:\IDB\Core\r-33\r__33_D18\Works\W01\bin\Debug\W01.pdb
+F:\IDB\Core\r-33\r__33_D18\Works\W01\obj\Debug\W01.exe
+F:\IDB\Core\r-33\r__33_D18\Works\W01\obj\Debug\W01.pdb
+F:\IDB\Core\r-33\r__33_D18\Works\W01\obj\Debug\W01.csprojResolveAssemblyReference.cache
